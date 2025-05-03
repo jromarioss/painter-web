@@ -1,6 +1,5 @@
-import { MainContextProvider } from './context';
-import { Router } from './routes';
-import { RouterProvider } from 'react-router-dom';
+import { MainContextProvider } from "./context";
+import { Router } from "./routes";
 
 function App() {
   return (
@@ -10,4 +9,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
